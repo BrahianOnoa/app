@@ -1,0 +1,18 @@
+JSX:
+Es una extensión que permite crear componenetes de 
+manera sencilla parecida a HTML
+
+Componenetes: Una función que tiene retorno, ya que 
+su función principal es dibujar en pantalla.
+
+Si bien todos los componenetes tienen que retornar algo,
+este tiene que retortnar una sola cosa. 
+
+
+//función
+
+function foo (){}
+
+* const foo = () => {
+    return
+}
